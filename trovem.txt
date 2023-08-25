@@ -2335,7 +2335,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2357,7 +2357,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2379,7 +2379,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2401,7 +2401,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2423,7 +2423,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2445,7 +2445,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2467,7 +2467,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2489,7 +2489,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2511,7 +2511,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2533,7 +2533,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2555,7 +2555,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2577,7 +2577,7 @@ proxies:
     servername: food-merchant-help.grab.com
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2599,7 +2599,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2621,7 +2621,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2643,7 +2643,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2665,7 +2665,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2687,7 +2687,7 @@ proxies:
     servername: support-whatsapp.zendesk.com
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2709,7 +2709,7 @@ proxies:
     servername: info.microsoft.com
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2731,7 +2731,7 @@ proxies:
     servername: odsp-test.op-mobile.opera.com
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2753,7 +2753,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2775,7 +2775,7 @@ proxies:
     servername: img.email.cashback.opera.com
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2797,7 +2797,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2819,7 +2819,7 @@ proxies:
     servername: v27.tiktokcdn.com
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2840,7 +2840,7 @@ proxies:
     servername: v27.tiktokcdn.com
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2861,7 +2861,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2882,7 +2882,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2903,7 +2903,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2924,7 +2924,7 @@ proxies:
     servername: zendesk1.garena.com
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2945,7 +2945,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2966,7 +2966,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -2987,7 +2987,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3008,7 +3008,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3029,7 +3029,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3050,7 +3050,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3071,7 +3071,7 @@ proxies:
     servername: support.zoom.us
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3092,7 +3092,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3113,7 +3113,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3134,7 +3134,7 @@ proxies:
     servername: web.poe.garena.com
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3155,7 +3155,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3176,7 +3176,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3197,7 +3197,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3218,7 +3218,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3239,7 +3239,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3260,7 +3260,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3281,7 +3281,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3302,7 +3302,7 @@ proxies:
     servername: m.nimo.tv
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3323,7 +3323,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3344,7 +3344,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3365,7 +3365,7 @@ proxies:
     servername: sogood.linefriends.com
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3386,7 +3386,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3407,7 +3407,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3428,7 +3428,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3449,7 +3449,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3470,7 +3470,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3491,7 +3491,7 @@ proxies:
     servername: cdnodeb.visionplus.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3512,7 +3512,7 @@ proxies:
     servername: desa.vpnstore28.my.id
     network: ws
     ws-opts:
-      path: /vmess/worryfree
+      path: /vmess
       headers:
         Host: desa.vpnstore28.my.id
         X-Online-Host: tor.cloudflare-dns.com
@@ -3888,9 +3888,161 @@ proxy-groups:
     url: 'http://www.gstatic.com/generate_204'
     interval: 60
     proxies:
-      - TROJAN1
-      - TROJAN2
-      - VMESS1
+      - AXISGAME1 ðŸ‡®ðŸ‡© ID (ðŸ‡®ðŸ‡©)
+      - AXISGAME2 ðŸ‡®ðŸ‡© ID
+      - AXISGAME3 ðŸ‡®ðŸ‡© ID
+      - AXISGAME4 ðŸ‡®ðŸ‡© ID
+      - AXISGAME5 ðŸ‡®ðŸ‡© ID
+      - AXISGAME6 ðŸ‡®ðŸ‡© ID
+      - GOJEK1 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - GOJEK2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - LIVEON ðŸ‡®ðŸ‡© ID
+      - OPERA1 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - OPERA2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - OPERA3 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - OPERA4 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - AXISNETFLIX ðŸ‡®ðŸ‡© ID
+      - AXISSUSHIROLL ðŸ‡®ðŸ‡© ID
+      - AXISTIKTOK ðŸ‡®ðŸ‡© ID
+      - AXISYOUTUBE ðŸ‡®ðŸ‡© ID
+      - ISATEDU ðŸ‡®ðŸ‡© ID
+      - ISATOPOK ðŸ‡®ðŸ‡© ID
+      - BYUEDU ðŸ‡®ðŸ‡© ID
+      - BYUGAME ðŸ‡®ðŸ‡© ID
+      - BYU GGWP ðŸ‡®ðŸ‡© ID
+      - BYUOPOK ðŸ‡®ðŸ‡© ID
+      - MICROSOFT1 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - MICROSOFT2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - WHATSAPP1 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - WHATSAPP2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - WHATSAPP3 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - SPOTIFY1 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - SPOTIFY2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - TSELGAMEMAX1 (ðŸ‡®ðŸ‡©) ðŸ‡®ðŸ‡© ID
+      - TSELGAMEMAX2 ðŸ‡®ðŸ‡© ID
+      - TSELILPED1 ðŸ‡®ðŸ‡© ID
+      - TSELILPED2 ðŸ‡®ðŸ‡© ID
+      - TSELMULTIMEDIA ðŸ‡®ðŸ‡© ID
+      - TSELOPOK500 (ðŸ‡®ðŸ‡©) ðŸ‡®ðŸ‡© ID
+      - TSELOPOK500 ðŸ‡®ðŸ‡© ID
+      - TSELOPOKUNLI (CFMA) ðŸ‡®ðŸ‡© ID
+      - WIFI.ID ðŸ‡®ðŸ‡© ID
+      - XLAKRAB1 ðŸ‡®ðŸ‡© ID
+      - XLAKRAB2 ðŸ‡®ðŸ‡© ID
+      - AXIATAEDUKASI1 (ðŸ‡®ðŸ‡©) ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - AXIATACONFERENCE ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - AXIATAEDUKASI2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - XLFLEXWLG1 ðŸ‡®ðŸ‡© ID
+      - XLFLEXWLG2 ðŸ‡®ðŸ‡© ID
+      - XLTURBO1 ðŸ‡®ðŸ‡© ID
+      - XLTURBO2 ðŸ‡®ðŸ‡© ID
+      - XLTURBO3 ðŸ‡®ðŸ‡© ID
+      - XLVISION1 (ðŸ‡®ðŸ‡©) ðŸ‡®ðŸ‡© ID
+      - XLVISION2 ðŸ‡®ðŸ‡© ID
+      - XL VIDIO ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - AXISGAME1 ðŸ‡¸ðŸ‡¬ SG (ðŸ‡¸ðŸ‡¬)
+      - AXISGAME2 ðŸ‡¸ðŸ‡¬ SG
+      - AXISGAME3 ðŸ‡¸ðŸ‡¬ SG
+      - AXISGAME4 ðŸ‡¸ðŸ‡¬ SG
+      - AXISGAME5 ðŸ‡¸ðŸ‡¬ SG
+      - AXISGAME6 ðŸ‡¸ðŸ‡¬ SG
+      - GOJEK1 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - GOJEK2 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - LIVEON ðŸ‡¸ðŸ‡¬ SG
+      - OPERA1 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - OPERA2 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - OPERA3 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - OPERA4 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - AXISNETFLIX ðŸ‡¸ðŸ‡¬ SG
+      - AXISSUSHIROLL ðŸ‡¸ðŸ‡¬ SG
+      - AXISTIKTOK ðŸ‡¸ðŸ‡¬ SG
+      - AXISYOUTUBE ðŸ‡¸ðŸ‡¬ SG
+      - ISATEDU ðŸ‡¸ðŸ‡¬ SG
+      - ISATOPOK ðŸ‡¸ðŸ‡¬ SG
+      - BYUEDU ðŸ‡¸ðŸ‡¬ SG
+      - BYUGAME ðŸ‡¸ðŸ‡¬ SG
+      - BYU GGWP ðŸ‡¸ðŸ‡¬ SG
+      - BYUOPOK ðŸ‡¸ðŸ‡¬ SG
+      - MICROSOFT1 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - MICROSOFT2 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - WHATSAPP1 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - WHATSAPP2 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - WHATSAPP3 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - SPOTIFY1 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - SPOTIFY2 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - TSELGAMEMAX1 (ðŸ‡¸ðŸ‡¬) ðŸ‡¸ðŸ‡¬ SG
+      - TSELGAMEMAX2 ðŸ‡¸ðŸ‡¬ SG
+      - TSELILPED1 ðŸ‡¸ðŸ‡¬ SG
+      - TSELILPED2 ðŸ‡¸ðŸ‡¬ SG
+      - TSELMULTIMEDIA ðŸ‡¸ðŸ‡¬ SG
+      - TSELOPOK500 (ðŸ‡¸ðŸ‡¬) ðŸ‡¸ðŸ‡¬ SG
+      - TSELOPOK500 ðŸ‡¸ðŸ‡¬ SG
+      - TSELOPOKUNLI (CFMA) ðŸ‡¸ðŸ‡¬ SG
+      - WIFI.ID ðŸ‡¸ðŸ‡¬ SG
+      - XLAKRAB1 ðŸ‡¸ðŸ‡¬ SG
+      - XLAKRAB2 ðŸ‡¸ðŸ‡¬ SG
+      - AXIATAEDUKASI1 (ðŸ‡¸ðŸ‡¬) ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - AXIATACONFERENCE ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - AXIATAEDUKASI2 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - XLFLEXWLG1 ðŸ‡¸ðŸ‡¬ SG
+      - XLFLEXWLG2 ðŸ‡¸ðŸ‡¬ SG
+      - XLTURBO1 ðŸ‡¸ðŸ‡¬ SG
+      - XLTURBO2 ðŸ‡¸ðŸ‡¬ SG
+      - XLTURBO3 ðŸ‡¸ðŸ‡¬ SG
+      - XLVISION1 (ðŸ‡¸ðŸ‡¬) ðŸ‡¸ðŸ‡¬ SG
+      - XLVISION2 ðŸ‡¸ðŸ‡¬ SG
+      - XL VIDIO ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - axisgame1 ðŸŸ£ ID (âš¡)
+      - axisgame2 ðŸŸ£ ID
+      - axisgame3 ðŸŸ£ ID
+      - axisgame4 ðŸŸ£ ID
+      - axisgame5 ðŸŸ£ ID
+      - axisgame6 ðŸŸ£ ID
+      - Gojek1 ðŸŸ£ðŸ”µ ID
+      - Gojek2 ðŸŸ£ðŸ”µ ID
+      - LIVEON ðŸ”µ ID
+      - OPERA1ssl ðŸŸ£ðŸ”µ ID
+      - OPERA2 ðŸŸ£ðŸ”µ ID
+      - OPERA3ssl ðŸŸ£ðŸ”µ ID
+      - OPERA4 ðŸŸ£ðŸ”µ ID
+      - axisnetflix ðŸŸ£ ID
+      - axissushiroll ðŸŸ£ ID
+      - axistiktok ðŸŸ£ ID
+      - axisyoutube ðŸŸ£ ID
+      - isatedu ðŸŸ¡ ID
+      - isatopok ðŸŸ¡ ID
+      - byuedu ðŸŸ  ID
+      - byugame ðŸŸ  ID
+      - byuopok ðŸŸ  ID
+      - microsoft1 ðŸŸ£ðŸ”µ ID
+      - microsoft2 ðŸŸ£ðŸ”µ ID
+      - whatsapp1 ðŸŸ£ðŸ”µ ID
+      - whatsapp2 ðŸŸ£ðŸ”µ ID
+      - whatsapp3 ðŸŸ£ðŸ”µ ID
+      - spotify1 ðŸŸ£ðŸ”µ ID
+      - spotify2 ðŸŸ£ðŸ”µ ID
+      - tselgamemax1 (âš¡) ðŸ”´ ID
+      - tselgamemax2 ðŸ”´ ID
+      - tselilped1 ðŸ”´ ID
+      - tselilped2 ðŸ”´ ID
+      - tselmultimedia ðŸ”´ ID
+      - tselopok500 (âš¡) ðŸ”´ ID
+      - tselopok500 ðŸ”´ ID
+      - tselopokunli (cfma) ðŸ”´ ID
+      - byU GGWP ðŸ”´ ID
+      - wifi.id âšª ID
+      - xlakrab1 ðŸ”µ ID
+      - xlakrab2 ðŸ”µ ID
+      - axiataedukasi1 (âš¡) ðŸŸ£ðŸ”µ ID
+      - axiataconference ðŸŸ£ðŸ”µ ID
+      - axiataedukasi2 ðŸŸ£ðŸ”µ ID
+      - xlflexWLG1 ðŸ”µ ID
+      - xlflexWLG2 ðŸ”µ ID
+      - xlturbo1 ðŸ”µ ID
+      - xlturbo2 ðŸ”µ ID
+      - xlturbo3 ðŸ”µ ID
+      - xlvision1 (âš¡) ðŸ”µ ID
+      - xlvision2 ðŸ”µ ID
       
   - name: BEST-PING
     type: url-test
@@ -3898,17 +4050,321 @@ proxy-groups:
     interval: 60
     tolerance: 50
     proxies:
-      - TROJAN1
-      - TROJAN2
-      - VMESS1
+      - AXISGAME1 ðŸ‡®ðŸ‡© ID (ðŸ‡®ðŸ‡©)
+      - AXISGAME2 ðŸ‡®ðŸ‡© ID
+      - AXISGAME3 ðŸ‡®ðŸ‡© ID
+      - AXISGAME4 ðŸ‡®ðŸ‡© ID
+      - AXISGAME5 ðŸ‡®ðŸ‡© ID
+      - AXISGAME6 ðŸ‡®ðŸ‡© ID
+      - GOJEK1 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - GOJEK2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - LIVEON ðŸ‡®ðŸ‡© ID
+      - OPERA1 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - OPERA2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - OPERA3 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - OPERA4 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - AXISNETFLIX ðŸ‡®ðŸ‡© ID
+      - AXISSUSHIROLL ðŸ‡®ðŸ‡© ID
+      - AXISTIKTOK ðŸ‡®ðŸ‡© ID
+      - AXISYOUTUBE ðŸ‡®ðŸ‡© ID
+      - ISATEDU ðŸ‡®ðŸ‡© ID
+      - ISATOPOK ðŸ‡®ðŸ‡© ID
+      - BYUEDU ðŸ‡®ðŸ‡© ID
+      - BYUGAME ðŸ‡®ðŸ‡© ID
+      - BYU GGWP ðŸ‡®ðŸ‡© ID
+      - BYUOPOK ðŸ‡®ðŸ‡© ID
+      - MICROSOFT1 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - MICROSOFT2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - WHATSAPP1 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - WHATSAPP2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - WHATSAPP3 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - SPOTIFY1 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - SPOTIFY2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - TSELGAMEMAX1 (ðŸ‡®ðŸ‡©) ðŸ‡®ðŸ‡© ID
+      - TSELGAMEMAX2 ðŸ‡®ðŸ‡© ID
+      - TSELILPED1 ðŸ‡®ðŸ‡© ID
+      - TSELILPED2 ðŸ‡®ðŸ‡© ID
+      - TSELMULTIMEDIA ðŸ‡®ðŸ‡© ID
+      - TSELOPOK500 (ðŸ‡®ðŸ‡©) ðŸ‡®ðŸ‡© ID
+      - TSELOPOK500 ðŸ‡®ðŸ‡© ID
+      - TSELOPOKUNLI (CFMA) ðŸ‡®ðŸ‡© ID
+      - WIFI.ID ðŸ‡®ðŸ‡© ID
+      - XLAKRAB1 ðŸ‡®ðŸ‡© ID
+      - XLAKRAB2 ðŸ‡®ðŸ‡© ID
+      - AXIATAEDUKASI1 (ðŸ‡®ðŸ‡©) ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - AXIATACONFERENCE ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - AXIATAEDUKASI2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - XLFLEXWLG1 ðŸ‡®ðŸ‡© ID
+      - XLFLEXWLG2 ðŸ‡®ðŸ‡© ID
+      - XLTURBO1 ðŸ‡®ðŸ‡© ID
+      - XLTURBO2 ðŸ‡®ðŸ‡© ID
+      - XLTURBO3 ðŸ‡®ðŸ‡© ID
+      - XLVISION1 (ðŸ‡®ðŸ‡©) ðŸ‡®ðŸ‡© ID
+      - XLVISION2 ðŸ‡®ðŸ‡© ID
+      - XL VIDIO ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - AXISGAME1 ðŸ‡¸ðŸ‡¬ SG (ðŸ‡¸ðŸ‡¬)
+      - AXISGAME2 ðŸ‡¸ðŸ‡¬ SG
+      - AXISGAME3 ðŸ‡¸ðŸ‡¬ SG
+      - AXISGAME4 ðŸ‡¸ðŸ‡¬ SG
+      - AXISGAME5 ðŸ‡¸ðŸ‡¬ SG
+      - AXISGAME6 ðŸ‡¸ðŸ‡¬ SG
+      - GOJEK1 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - GOJEK2 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - LIVEON ðŸ‡¸ðŸ‡¬ SG
+      - OPERA1 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - OPERA2 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - OPERA3 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - OPERA4 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - AXISNETFLIX ðŸ‡¸ðŸ‡¬ SG
+      - AXISSUSHIROLL ðŸ‡¸ðŸ‡¬ SG
+      - AXISTIKTOK ðŸ‡¸ðŸ‡¬ SG
+      - AXISYOUTUBE ðŸ‡¸ðŸ‡¬ SG
+      - ISATEDU ðŸ‡¸ðŸ‡¬ SG
+      - ISATOPOK ðŸ‡¸ðŸ‡¬ SG
+      - BYUEDU ðŸ‡¸ðŸ‡¬ SG
+      - BYUGAME ðŸ‡¸ðŸ‡¬ SG
+      - BYU GGWP ðŸ‡¸ðŸ‡¬ SG
+      - BYUOPOK ðŸ‡¸ðŸ‡¬ SG
+      - MICROSOFT1 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - MICROSOFT2 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - WHATSAPP1 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - WHATSAPP2 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - WHATSAPP3 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - SPOTIFY1 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - SPOTIFY2 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - TSELGAMEMAX1 (ðŸ‡¸ðŸ‡¬) ðŸ‡¸ðŸ‡¬ SG
+      - TSELGAMEMAX2 ðŸ‡¸ðŸ‡¬ SG
+      - TSELILPED1 ðŸ‡¸ðŸ‡¬ SG
+      - TSELILPED2 ðŸ‡¸ðŸ‡¬ SG
+      - TSELMULTIMEDIA ðŸ‡¸ðŸ‡¬ SG
+      - TSELOPOK500 (ðŸ‡¸ðŸ‡¬) ðŸ‡¸ðŸ‡¬ SG
+      - TSELOPOK500 ðŸ‡¸ðŸ‡¬ SG
+      - TSELOPOKUNLI (CFMA) ðŸ‡¸ðŸ‡¬ SG
+      - WIFI.ID ðŸ‡¸ðŸ‡¬ SG
+      - XLAKRAB1 ðŸ‡¸ðŸ‡¬ SG
+      - XLAKRAB2 ðŸ‡¸ðŸ‡¬ SG
+      - AXIATAEDUKASI1 (ðŸ‡¸ðŸ‡¬) ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - AXIATACONFERENCE ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - AXIATAEDUKASI2 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - XLFLEXWLG1 ðŸ‡¸ðŸ‡¬ SG
+      - XLFLEXWLG2 ðŸ‡¸ðŸ‡¬ SG
+      - XLTURBO1 ðŸ‡¸ðŸ‡¬ SG
+      - XLTURBO2 ðŸ‡¸ðŸ‡¬ SG
+      - XLTURBO3 ðŸ‡¸ðŸ‡¬ SG
+      - XLVISION1 (ðŸ‡¸ðŸ‡¬) ðŸ‡¸ðŸ‡¬ SG
+      - XLVISION2 ðŸ‡¸ðŸ‡¬ SG
+      - XL VIDIO ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - axisgame1 ðŸŸ£ ID (âš¡)
+      - axisgame2 ðŸŸ£ ID
+      - axisgame3 ðŸŸ£ ID
+      - axisgame4 ðŸŸ£ ID
+      - axisgame5 ðŸŸ£ ID
+      - axisgame6 ðŸŸ£ ID
+      - Gojek1 ðŸŸ£ðŸ”µ ID
+      - Gojek2 ðŸŸ£ðŸ”µ ID
+      - LIVEON ðŸ”µ ID
+      - OPERA1ssl ðŸŸ£ðŸ”µ ID
+      - OPERA2 ðŸŸ£ðŸ”µ ID
+      - OPERA3ssl ðŸŸ£ðŸ”µ ID
+      - OPERA4 ðŸŸ£ðŸ”µ ID
+      - axisnetflix ðŸŸ£ ID
+      - axissushiroll ðŸŸ£ ID
+      - axistiktok ðŸŸ£ ID
+      - axisyoutube ðŸŸ£ ID
+      - isatedu ðŸŸ¡ ID
+      - isatopok ðŸŸ¡ ID
+      - byuedu ðŸŸ  ID
+      - byugame ðŸŸ  ID
+      - byuopok ðŸŸ  ID
+      - microsoft1 ðŸŸ£ðŸ”µ ID
+      - microsoft2 ðŸŸ£ðŸ”µ ID
+      - whatsapp1 ðŸŸ£ðŸ”µ ID
+      - whatsapp2 ðŸŸ£ðŸ”µ ID
+      - whatsapp3 ðŸŸ£ðŸ”µ ID
+      - spotify1 ðŸŸ£ðŸ”µ ID
+      - spotify2 ðŸŸ£ðŸ”µ ID
+      - tselgamemax1 (âš¡) ðŸ”´ ID
+      - tselgamemax2 ðŸ”´ ID
+      - tselilped1 ðŸ”´ ID
+      - tselilped2 ðŸ”´ ID
+      - tselmultimedia ðŸ”´ ID
+      - tselopok500 (âš¡) ðŸ”´ ID
+      - tselopok500 ðŸ”´ ID
+      - tselopokunli (cfma) ðŸ”´ ID
+      - byU GGWP ðŸ”´ ID
+      - wifi.id âšª ID
+      - xlakrab1 ðŸ”µ ID
+      - xlakrab2 ðŸ”µ ID
+      - axiataedukasi1 (âš¡) ðŸŸ£ðŸ”µ ID
+      - axiataconference ðŸŸ£ðŸ”µ ID
+      - axiataedukasi2 ðŸŸ£ðŸ”µ ID
+      - xlflexWLG1 ðŸ”µ ID
+      - xlflexWLG2 ðŸ”µ ID
+      - xlturbo1 ðŸ”µ ID
+      - xlturbo2 ðŸ”µ ID
+      - xlturbo3 ðŸ”µ ID
+      - xlvision1 (âš¡) ðŸ”µ ID
+      - xlvision2 ðŸ”µ ID
       
   - name: RELAY-TRAFFIC
     type: relay
     disable-udp: false
     proxies:
-      - TROJAN1
-      - TROJAN2
-      - VMESS1
+      - AXISGAME1 ðŸ‡®ðŸ‡© ID (ðŸ‡®ðŸ‡©)
+      - AXISGAME2 ðŸ‡®ðŸ‡© ID
+      - AXISGAME3 ðŸ‡®ðŸ‡© ID
+      - AXISGAME4 ðŸ‡®ðŸ‡© ID
+      - AXISGAME5 ðŸ‡®ðŸ‡© ID
+      - AXISGAME6 ðŸ‡®ðŸ‡© ID
+      - GOJEK1 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - GOJEK2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - LIVEON ðŸ‡®ðŸ‡© ID
+      - OPERA1 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - OPERA2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - OPERA3 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - OPERA4 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - AXISNETFLIX ðŸ‡®ðŸ‡© ID
+      - AXISSUSHIROLL ðŸ‡®ðŸ‡© ID
+      - AXISTIKTOK ðŸ‡®ðŸ‡© ID
+      - AXISYOUTUBE ðŸ‡®ðŸ‡© ID
+      - ISATEDU ðŸ‡®ðŸ‡© ID
+      - ISATOPOK ðŸ‡®ðŸ‡© ID
+      - BYUEDU ðŸ‡®ðŸ‡© ID
+      - BYUGAME ðŸ‡®ðŸ‡© ID
+      - BYU GGWP ðŸ‡®ðŸ‡© ID
+      - BYUOPOK ðŸ‡®ðŸ‡© ID
+      - MICROSOFT1 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - MICROSOFT2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - WHATSAPP1 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - WHATSAPP2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - WHATSAPP3 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - SPOTIFY1 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - SPOTIFY2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - TSELGAMEMAX1 (ðŸ‡®ðŸ‡©) ðŸ‡®ðŸ‡© ID
+      - TSELGAMEMAX2 ðŸ‡®ðŸ‡© ID
+      - TSELILPED1 ðŸ‡®ðŸ‡© ID
+      - TSELILPED2 ðŸ‡®ðŸ‡© ID
+      - TSELMULTIMEDIA ðŸ‡®ðŸ‡© ID
+      - TSELOPOK500 (ðŸ‡®ðŸ‡©) ðŸ‡®ðŸ‡© ID
+      - TSELOPOK500 ðŸ‡®ðŸ‡© ID
+      - TSELOPOKUNLI (CFMA) ðŸ‡®ðŸ‡© ID
+      - WIFI.ID ðŸ‡®ðŸ‡© ID
+      - XLAKRAB1 ðŸ‡®ðŸ‡© ID
+      - XLAKRAB2 ðŸ‡®ðŸ‡© ID
+      - AXIATAEDUKASI1 (ðŸ‡®ðŸ‡©) ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - AXIATACONFERENCE ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - AXIATAEDUKASI2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - XLFLEXWLG1 ðŸ‡®ðŸ‡© ID
+      - XLFLEXWLG2 ðŸ‡®ðŸ‡© ID
+      - XLTURBO1 ðŸ‡®ðŸ‡© ID
+      - XLTURBO2 ðŸ‡®ðŸ‡© ID
+      - XLTURBO3 ðŸ‡®ðŸ‡© ID
+      - XLVISION1 (ðŸ‡®ðŸ‡©) ðŸ‡®ðŸ‡© ID
+      - XLVISION2 ðŸ‡®ðŸ‡© ID
+      - XL VIDIO ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - AXISGAME1 ðŸ‡¸ðŸ‡¬ SG (ðŸ‡¸ðŸ‡¬)
+      - AXISGAME2 ðŸ‡¸ðŸ‡¬ SG
+      - AXISGAME3 ðŸ‡¸ðŸ‡¬ SG
+      - AXISGAME4 ðŸ‡¸ðŸ‡¬ SG
+      - AXISGAME5 ðŸ‡¸ðŸ‡¬ SG
+      - AXISGAME6 ðŸ‡¸ðŸ‡¬ SG
+      - GOJEK1 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - GOJEK2 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - LIVEON ðŸ‡¸ðŸ‡¬ SG
+      - OPERA1 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - OPERA2 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - OPERA3 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - OPERA4 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - AXISNETFLIX ðŸ‡¸ðŸ‡¬ SG
+      - AXISSUSHIROLL ðŸ‡¸ðŸ‡¬ SG
+      - AXISTIKTOK ðŸ‡¸ðŸ‡¬ SG
+      - AXISYOUTUBE ðŸ‡¸ðŸ‡¬ SG
+      - ISATEDU ðŸ‡¸ðŸ‡¬ SG
+      - ISATOPOK ðŸ‡¸ðŸ‡¬ SG
+      - BYUEDU ðŸ‡¸ðŸ‡¬ SG
+      - BYUGAME ðŸ‡¸ðŸ‡¬ SG
+      - BYU GGWP ðŸ‡¸ðŸ‡¬ SG
+      - BYUOPOK ðŸ‡¸ðŸ‡¬ SG
+      - MICROSOFT1 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - MICROSOFT2 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - WHATSAPP1 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - WHATSAPP2 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - WHATSAPP3 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - SPOTIFY1 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - SPOTIFY2 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - TSELGAMEMAX1 (ðŸ‡¸ðŸ‡¬) ðŸ‡¸ðŸ‡¬ SG
+      - TSELGAMEMAX2 ðŸ‡¸ðŸ‡¬ SG
+      - TSELILPED1 ðŸ‡¸ðŸ‡¬ SG
+      - TSELILPED2 ðŸ‡¸ðŸ‡¬ SG
+      - TSELMULTIMEDIA ðŸ‡¸ðŸ‡¬ SG
+      - TSELOPOK500 (ðŸ‡¸ðŸ‡¬) ðŸ‡¸ðŸ‡¬ SG
+      - TSELOPOK500 ðŸ‡¸ðŸ‡¬ SG
+      - TSELOPOKUNLI (CFMA) ðŸ‡¸ðŸ‡¬ SG
+      - WIFI.ID ðŸ‡¸ðŸ‡¬ SG
+      - XLAKRAB1 ðŸ‡¸ðŸ‡¬ SG
+      - XLAKRAB2 ðŸ‡¸ðŸ‡¬ SG
+      - AXIATAEDUKASI1 (ðŸ‡¸ðŸ‡¬) ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - AXIATACONFERENCE ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - AXIATAEDUKASI2 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - XLFLEXWLG1 ðŸ‡¸ðŸ‡¬ SG
+      - XLFLEXWLG2 ðŸ‡¸ðŸ‡¬ SG
+      - XLTURBO1 ðŸ‡¸ðŸ‡¬ SG
+      - XLTURBO2 ðŸ‡¸ðŸ‡¬ SG
+      - XLTURBO3 ðŸ‡¸ðŸ‡¬ SG
+      - XLVISION1 (ðŸ‡¸ðŸ‡¬) ðŸ‡¸ðŸ‡¬ SG
+      - XLVISION2 ðŸ‡¸ðŸ‡¬ SG
+      - XL VIDIO ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - axisgame1 ðŸŸ£ ID (âš¡)
+      - axisgame2 ðŸŸ£ ID
+      - axisgame3 ðŸŸ£ ID
+      - axisgame4 ðŸŸ£ ID
+      - axisgame5 ðŸŸ£ ID
+      - axisgame6 ðŸŸ£ ID
+      - Gojek1 ðŸŸ£ðŸ”µ ID
+      - Gojek2 ðŸŸ£ðŸ”µ ID
+      - LIVEON ðŸ”µ ID
+      - OPERA1ssl ðŸŸ£ðŸ”µ ID
+      - OPERA2 ðŸŸ£ðŸ”µ ID
+      - OPERA3ssl ðŸŸ£ðŸ”µ ID
+      - OPERA4 ðŸŸ£ðŸ”µ ID
+      - axisnetflix ðŸŸ£ ID
+      - axissushiroll ðŸŸ£ ID
+      - axistiktok ðŸŸ£ ID
+      - axisyoutube ðŸŸ£ ID
+      - isatedu ðŸŸ¡ ID
+      - isatopok ðŸŸ¡ ID
+      - byuedu ðŸŸ  ID
+      - byugame ðŸŸ  ID
+      - byuopok ðŸŸ  ID
+      - microsoft1 ðŸŸ£ðŸ”µ ID
+      - microsoft2 ðŸŸ£ðŸ”µ ID
+      - whatsapp1 ðŸŸ£ðŸ”µ ID
+      - whatsapp2 ðŸŸ£ðŸ”µ ID
+      - whatsapp3 ðŸŸ£ðŸ”µ ID
+      - spotify1 ðŸŸ£ðŸ”µ ID
+      - spotify2 ðŸŸ£ðŸ”µ ID
+      - tselgamemax1 (âš¡) ðŸ”´ ID
+      - tselgamemax2 ðŸ”´ ID
+      - tselilped1 ðŸ”´ ID
+      - tselilped2 ðŸ”´ ID
+      - tselmultimedia ðŸ”´ ID
+      - tselopok500 (âš¡) ðŸ”´ ID
+      - tselopok500 ðŸ”´ ID
+      - tselopokunli (cfma) ðŸ”´ ID
+      - byU GGWP ðŸ”´ ID
+      - wifi.id âšª ID
+      - xlakrab1 ðŸ”µ ID
+      - xlakrab2 ðŸ”µ ID
+      - axiataedukasi1 (âš¡) ðŸŸ£ðŸ”µ ID
+      - axiataconference ðŸŸ£ðŸ”µ ID
+      - axiataedukasi2 ðŸŸ£ðŸ”µ ID
+      - xlflexWLG1 ðŸ”µ ID
+      - xlflexWLG2 ðŸ”µ ID
+      - xlturbo1 ðŸ”µ ID
+      - xlturbo2 ðŸ”µ ID
+      - xlturbo3 ðŸ”µ ID
+      - xlvision1 (âš¡) ðŸ”µ ID
+      - xlvision2 ðŸ”µ ID
       
   - name: LOADBALANCE
     type: load-balance
@@ -3916,9 +4372,161 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 60
     proxies:
-      - TROJAN1
-      - TROJAN2
-      - VMESS1
+      - AXISGAME1 ðŸ‡®ðŸ‡© ID (ðŸ‡®ðŸ‡©)
+      - AXISGAME2 ðŸ‡®ðŸ‡© ID
+      - AXISGAME3 ðŸ‡®ðŸ‡© ID
+      - AXISGAME4 ðŸ‡®ðŸ‡© ID
+      - AXISGAME5 ðŸ‡®ðŸ‡© ID
+      - AXISGAME6 ðŸ‡®ðŸ‡© ID
+      - GOJEK1 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - GOJEK2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - LIVEON ðŸ‡®ðŸ‡© ID
+      - OPERA1 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - OPERA2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - OPERA3 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - OPERA4 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - AXISNETFLIX ðŸ‡®ðŸ‡© ID
+      - AXISSUSHIROLL ðŸ‡®ðŸ‡© ID
+      - AXISTIKTOK ðŸ‡®ðŸ‡© ID
+      - AXISYOUTUBE ðŸ‡®ðŸ‡© ID
+      - ISATEDU ðŸ‡®ðŸ‡© ID
+      - ISATOPOK ðŸ‡®ðŸ‡© ID
+      - BYUEDU ðŸ‡®ðŸ‡© ID
+      - BYUGAME ðŸ‡®ðŸ‡© ID
+      - BYU GGWP ðŸ‡®ðŸ‡© ID
+      - BYUOPOK ðŸ‡®ðŸ‡© ID
+      - MICROSOFT1 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - MICROSOFT2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - WHATSAPP1 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - WHATSAPP2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - WHATSAPP3 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - SPOTIFY1 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - SPOTIFY2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - TSELGAMEMAX1 (ðŸ‡®ðŸ‡©) ðŸ‡®ðŸ‡© ID
+      - TSELGAMEMAX2 ðŸ‡®ðŸ‡© ID
+      - TSELILPED1 ðŸ‡®ðŸ‡© ID
+      - TSELILPED2 ðŸ‡®ðŸ‡© ID
+      - TSELMULTIMEDIA ðŸ‡®ðŸ‡© ID
+      - TSELOPOK500 (ðŸ‡®ðŸ‡©) ðŸ‡®ðŸ‡© ID
+      - TSELOPOK500 ðŸ‡®ðŸ‡© ID
+      - TSELOPOKUNLI (CFMA) ðŸ‡®ðŸ‡© ID
+      - WIFI.ID ðŸ‡®ðŸ‡© ID
+      - XLAKRAB1 ðŸ‡®ðŸ‡© ID
+      - XLAKRAB2 ðŸ‡®ðŸ‡© ID
+      - AXIATAEDUKASI1 (ðŸ‡®ðŸ‡©) ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - AXIATACONFERENCE ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - AXIATAEDUKASI2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - XLFLEXWLG1 ðŸ‡®ðŸ‡© ID
+      - XLFLEXWLG2 ðŸ‡®ðŸ‡© ID
+      - XLTURBO1 ðŸ‡®ðŸ‡© ID
+      - XLTURBO2 ðŸ‡®ðŸ‡© ID
+      - XLTURBO3 ðŸ‡®ðŸ‡© ID
+      - XLVISION1 (ðŸ‡®ðŸ‡©) ðŸ‡®ðŸ‡© ID
+      - XLVISION2 ðŸ‡®ðŸ‡© ID
+      - XL VIDIO ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
+      - AXISGAME1 ðŸ‡¸ðŸ‡¬ SG (ðŸ‡¸ðŸ‡¬)
+      - AXISGAME2 ðŸ‡¸ðŸ‡¬ SG
+      - AXISGAME3 ðŸ‡¸ðŸ‡¬ SG
+      - AXISGAME4 ðŸ‡¸ðŸ‡¬ SG
+      - AXISGAME5 ðŸ‡¸ðŸ‡¬ SG
+      - AXISGAME6 ðŸ‡¸ðŸ‡¬ SG
+      - GOJEK1 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - GOJEK2 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - LIVEON ðŸ‡¸ðŸ‡¬ SG
+      - OPERA1 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - OPERA2 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - OPERA3 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - OPERA4 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - AXISNETFLIX ðŸ‡¸ðŸ‡¬ SG
+      - AXISSUSHIROLL ðŸ‡¸ðŸ‡¬ SG
+      - AXISTIKTOK ðŸ‡¸ðŸ‡¬ SG
+      - AXISYOUTUBE ðŸ‡¸ðŸ‡¬ SG
+      - ISATEDU ðŸ‡¸ðŸ‡¬ SG
+      - ISATOPOK ðŸ‡¸ðŸ‡¬ SG
+      - BYUEDU ðŸ‡¸ðŸ‡¬ SG
+      - BYUGAME ðŸ‡¸ðŸ‡¬ SG
+      - BYU GGWP ðŸ‡¸ðŸ‡¬ SG
+      - BYUOPOK ðŸ‡¸ðŸ‡¬ SG
+      - MICROSOFT1 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - MICROSOFT2 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - WHATSAPP1 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - WHATSAPP2 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - WHATSAPP3 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - SPOTIFY1 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - SPOTIFY2 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - TSELGAMEMAX1 (ðŸ‡¸ðŸ‡¬) ðŸ‡¸ðŸ‡¬ SG
+      - TSELGAMEMAX2 ðŸ‡¸ðŸ‡¬ SG
+      - TSELILPED1 ðŸ‡¸ðŸ‡¬ SG
+      - TSELILPED2 ðŸ‡¸ðŸ‡¬ SG
+      - TSELMULTIMEDIA ðŸ‡¸ðŸ‡¬ SG
+      - TSELOPOK500 (ðŸ‡¸ðŸ‡¬) ðŸ‡¸ðŸ‡¬ SG
+      - TSELOPOK500 ðŸ‡¸ðŸ‡¬ SG
+      - TSELOPOKUNLI (CFMA) ðŸ‡¸ðŸ‡¬ SG
+      - WIFI.ID ðŸ‡¸ðŸ‡¬ SG
+      - XLAKRAB1 ðŸ‡¸ðŸ‡¬ SG
+      - XLAKRAB2 ðŸ‡¸ðŸ‡¬ SG
+      - AXIATAEDUKASI1 (ðŸ‡¸ðŸ‡¬) ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - AXIATACONFERENCE ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - AXIATAEDUKASI2 ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - XLFLEXWLG1 ðŸ‡¸ðŸ‡¬ SG
+      - XLFLEXWLG2 ðŸ‡¸ðŸ‡¬ SG
+      - XLTURBO1 ðŸ‡¸ðŸ‡¬ SG
+      - XLTURBO2 ðŸ‡¸ðŸ‡¬ SG
+      - XLTURBO3 ðŸ‡¸ðŸ‡¬ SG
+      - XLVISION1 (ðŸ‡¸ðŸ‡¬) ðŸ‡¸ðŸ‡¬ SG
+      - XLVISION2 ðŸ‡¸ðŸ‡¬ SG
+      - XL VIDIO ðŸ‡¸ðŸ‡¬ðŸ‡¸ðŸ‡¬ SG
+      - axisgame1 ðŸŸ£ ID (âš¡)
+      - axisgame2 ðŸŸ£ ID
+      - axisgame3 ðŸŸ£ ID
+      - axisgame4 ðŸŸ£ ID
+      - axisgame5 ðŸŸ£ ID
+      - axisgame6 ðŸŸ£ ID
+      - Gojek1 ðŸŸ£ðŸ”µ ID
+      - Gojek2 ðŸŸ£ðŸ”µ ID
+      - LIVEON ðŸ”µ ID
+      - OPERA1ssl ðŸŸ£ðŸ”µ ID
+      - OPERA2 ðŸŸ£ðŸ”µ ID
+      - OPERA3ssl ðŸŸ£ðŸ”µ ID
+      - OPERA4 ðŸŸ£ðŸ”µ ID
+      - axisnetflix ðŸŸ£ ID
+      - axissushiroll ðŸŸ£ ID
+      - axistiktok ðŸŸ£ ID
+      - axisyoutube ðŸŸ£ ID
+      - isatedu ðŸŸ¡ ID
+      - isatopok ðŸŸ¡ ID
+      - byuedu ðŸŸ  ID
+      - byugame ðŸŸ  ID
+      - byuopok ðŸŸ  ID
+      - microsoft1 ðŸŸ£ðŸ”µ ID
+      - microsoft2 ðŸŸ£ðŸ”µ ID
+      - whatsapp1 ðŸŸ£ðŸ”µ ID
+      - whatsapp2 ðŸŸ£ðŸ”µ ID
+      - whatsapp3 ðŸŸ£ðŸ”µ ID
+      - spotify1 ðŸŸ£ðŸ”µ ID
+      - spotify2 ðŸŸ£ðŸ”µ ID
+      - tselgamemax1 (âš¡) ðŸ”´ ID
+      - tselgamemax2 ðŸ”´ ID
+      - tselilped1 ðŸ”´ ID
+      - tselilped2 ðŸ”´ ID
+      - tselmultimedia ðŸ”´ ID
+      - tselopok500 (âš¡) ðŸ”´ ID
+      - tselopok500 ðŸ”´ ID
+      - tselopokunli (cfma) ðŸ”´ ID
+      - byU GGWP ðŸ”´ ID
+      - wifi.id âšª ID
+      - xlakrab1 ðŸ”µ ID
+      - xlakrab2 ðŸ”µ ID
+      - axiataedukasi1 (âš¡) ðŸŸ£ðŸ”µ ID
+      - axiataconference ðŸŸ£ðŸ”µ ID
+      - axiataedukasi2 ðŸŸ£ðŸ”µ ID
+      - xlflexWLG1 ðŸ”µ ID
+      - xlflexWLG2 ðŸ”µ ID
+      - xlturbo1 ðŸ”µ ID
+      - xlturbo2 ðŸ”µ ID
+      - xlturbo3 ðŸ”µ ID
+      - xlvision1 (âš¡) ðŸ”µ ID
+      - xlvision2 ðŸ”µ ID
       
   - name: Direct
     type: select
