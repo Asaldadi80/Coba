@@ -54,8 +54,8 @@ experimental:
   interface-name: en0
 proxies:
   - name: TSELOPOK500 (ðŸ‡®ðŸ‡©) ðŸ‡®ðŸ‡© ID
-    password: e10f4340-460b-11ee-ae90-1239d0255272
-    server: id-1.test3.net
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
+    server: sg6-trojan.bonds.id
     port: 80
     type: trojan
     alterId: 0
@@ -67,14 +67,14 @@ proxies:
     ws-opts:
       path: 'http://tsel.me/worryfree@http://skul.id'
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Forward-Host: z-p15.www.instagram.com
     udp: true
     strategy: consistent-hashing
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: TSELOPOK500 ðŸ‡®ðŸ‡© ID
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     server: 104.16.85.20
     port: 80
     type: trojan
@@ -82,27 +82,27 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: 'http://skul.id'
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Forward-Host: z-p15.www.instagram.com
     udp: true
     strategy: consistent-hashing
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: TSELOPOKUNLI (CFMA) ðŸ‡®ðŸ‡© ID
-    password: e10f4340-460b-11ee-ae90-1239d0255272
-    server: id-1.test3.net
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
+    server: sg6-trojan.bonds.id
     port: 8080
     type: trojan
     alterId: 0
     cipher: auto
     tls: false
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: 'http://tsel.me/worryfree'
@@ -114,7 +114,7 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: SPOTIFY1 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     server: investors.spotify.com
     port: 2087
     type: trojan
@@ -122,12 +122,12 @@ proxies:
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -136,7 +136,7 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: SPOTIFY2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     server: investors.spotify.com
     port: 443
     type: trojan
@@ -144,12 +144,12 @@ proxies:
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -158,7 +158,7 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: GOJEK1 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     server: 162.159.128.7
     port: 443
     type: trojan
@@ -166,12 +166,12 @@ proxies:
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -180,8 +180,8 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: GOJEK2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
-    password: e10f4340-460b-11ee-ae90-1239d0255272
-    server: id-1.test3.net
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
+    server: sg6-trojan.bonds.id
     port: 443
     type: trojan
     alterId: 0
@@ -193,7 +193,7 @@ proxies:
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -202,7 +202,7 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: LIVEON ðŸ‡®ðŸ‡© ID
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     server: beacon.liveon.id
     port: 443
     type: trojan
@@ -210,12 +210,12 @@ proxies:
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -224,7 +224,7 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: MICROSOFT1 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     server: info.microsoft.com
     port: 443
     type: trojan
@@ -232,12 +232,12 @@ proxies:
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -246,7 +246,7 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: WHATSAPP1 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     server: support-whatsapp.zendesk.com
     port: 443
     type: trojan
@@ -254,12 +254,12 @@ proxies:
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -268,7 +268,7 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: WHATSAPP2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     server: support-whatsapp.zendesk.com
     port: 80
     type: trojan
@@ -276,12 +276,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -290,8 +290,8 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: WHATSAPP3 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
-    password: e10f4340-460b-11ee-ae90-1239d0255272
-    server: id-1.test3.net
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
+    server: sg6-trojan.bonds.id
     port: 443
     type: trojan
     alterId: 0
@@ -303,7 +303,7 @@ proxies:
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -312,8 +312,8 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: MICROSOFT2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
-    password: e10f4340-460b-11ee-ae90-1239d0255272
-    server: id-1.test3.net
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
+    server: sg6-trojan.bonds.id
     port: 443
     type: trojan
     alterId: 0
@@ -325,7 +325,7 @@ proxies:
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -334,8 +334,8 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: OPERA1 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
-    password: e10f4340-460b-11ee-ae90-1239d0255272
-    server: id-1.test3.net
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
+    server: sg6-trojan.bonds.id
     port: 443
     type: trojan
     alterId: 0
@@ -347,7 +347,7 @@ proxies:
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -356,7 +356,7 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: OPERA2 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     server: res-odx.op-mobile.opera.com
     port: 443
     type: trojan
@@ -364,12 +364,12 @@ proxies:
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -378,7 +378,7 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: OPERA3 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     server: odsp-quic.adx.opera.com
     port: 80
     type: trojan
@@ -386,12 +386,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -400,7 +400,7 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: OPERA4 ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     server: 104.18.36.140
     port: 80
     type: trojan
@@ -408,12 +408,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -422,8 +422,8 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: TSELMULTIMEDIA ðŸ‡®ðŸ‡© ID
-    password: e10f4340-460b-11ee-ae90-1239d0255272
-    server: id-1.test3.net
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
+    server: sg6-trojan.bonds.id
     port: 443
     type: trojan
     alterId: 0
@@ -435,7 +435,7 @@ proxies:
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -443,7 +443,7 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: AXISGAME3 ðŸ‡®ðŸ‡© ID
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     server: 104.16.85.20
     port: 8880
     type: trojan
@@ -451,12 +451,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -464,7 +464,7 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: AXISGAME4 ðŸ‡®ðŸ‡© ID
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     server: 104.16.108.96
     port: 8880
     type: trojan
@@ -472,12 +472,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -485,7 +485,7 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: AXISGAME5 ðŸ‡®ðŸ‡© ID
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     server: 104.18.20.94
     port: 8880
     type: trojan
@@ -493,12 +493,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -506,8 +506,8 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: AXISGAME6 ðŸ‡®ðŸ‡© ID
-    password: e10f4340-460b-11ee-ae90-1239d0255272
-    server: id-1.test3.net
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
+    server: sg6-trojan.bonds.id
     port: 443
     type: trojan
     alterId: 0
@@ -519,7 +519,7 @@ proxies:
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -527,7 +527,7 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: WIFI.ID ðŸ‡®ðŸ‡© ID
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     server: io.ruangguru.com
     port: 443
     type: trojan
@@ -535,12 +535,12 @@ proxies:
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -551,17 +551,17 @@ proxies:
     server: 162.159.138.6
     port: 443
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -572,17 +572,17 @@ proxies:
     server: 162.159.128.7
     port: 443
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -593,17 +593,17 @@ proxies:
     server: 104.16.51.111
     port: 443
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -614,17 +614,17 @@ proxies:
     server: 104.17.3.81
     port: 443
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -635,17 +635,17 @@ proxies:
     server: 172.64.149.82
     port: 443
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -653,10 +653,10 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: AXIATAEDUKASI1 (ðŸ‡®ðŸ‡©) ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
-    server: id-1.test3.net
+    server: sg6-trojan.bonds.id
     port: 443
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -666,7 +666,7 @@ proxies:
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -677,17 +677,17 @@ proxies:
     server: 104.16.226.91
     port: 80
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: false
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -698,17 +698,17 @@ proxies:
     server: gomarketplacecontent-cf.zoom.us
     port: 80
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: false
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -716,10 +716,10 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: AXISGAME1 ðŸ‡®ðŸ‡© ID (ðŸ‡®ðŸ‡©)
-    server: id-1.test3.net
+    server: sg6-trojan.bonds.id
     port: 443
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -729,7 +729,7 @@ proxies:
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -740,17 +740,17 @@ proxies:
     server: www.sushiroll.co.id
     port: 443
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -761,17 +761,17 @@ proxies:
     server: creativeservices.netflix.com
     port: 443
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -782,17 +782,17 @@ proxies:
     server: tiktok1.zendesk.com
     port: 443
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -803,17 +803,17 @@ proxies:
     server: www.udemy.com
     port: 443
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -824,17 +824,17 @@ proxies:
     server: 172.67.70.101
     port: 8880
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: false
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -845,17 +845,17 @@ proxies:
     server: io.ruangguru.com
     port: 443
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -866,17 +866,17 @@ proxies:
     server: 104.26.7.171
     port: 443
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -884,10 +884,10 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: TSELGAMEMAX1 (ðŸ‡®ðŸ‡©) ðŸ‡®ðŸ‡© ID
-    server: id-1.test3.net
+    server: sg6-trojan.bonds.id
     port: 443
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -897,7 +897,7 @@ proxies:
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -908,17 +908,17 @@ proxies:
     server: 104.18.41.141
     port: 443
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -929,17 +929,17 @@ proxies:
     server: sogood.linefriends.com
     port: 443
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -947,10 +947,10 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: XLFLEXWLG2 ðŸ‡®ðŸ‡© ID
-    server: id-1.test3.net
+    server: sg6-trojan.bonds.id
     port: 443
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -960,7 +960,7 @@ proxies:
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -971,17 +971,17 @@ proxies:
     server: space.byu.id
     port: 443
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -992,17 +992,17 @@ proxies:
     server: orangtua.ruangguru.com
     port: 443
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -1013,17 +1013,17 @@ proxies:
     server: 104.19.143.108
     port: 443
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -1031,7 +1031,7 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: BYU GGWP ðŸ‡®ðŸ‡© ID
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     server: duniagames.co.id
     port: 80
     type: trojan
@@ -1044,7 +1044,7 @@ proxies:
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -1055,17 +1055,17 @@ proxies:
     server: youtube.zendesk.com
     port: 443
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -1076,17 +1076,17 @@ proxies:
     server: cdn.appsflyer.com
     port: 443
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -1094,10 +1094,10 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: XLVISION1 (ðŸ‡®ðŸ‡©) ðŸ‡®ðŸ‡© ID
-    server: id-1.test3.net
+    server: sg6-trojan.bonds.id
     port: 443
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
@@ -1107,7 +1107,7 @@ proxies:
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -1118,17 +1118,17 @@ proxies:
     server: cdnodeb.visionplus.id
     port: 443
     type: trojan
-    password: e10f4340-460b-11ee-ae90-1239d0255272
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
     alterId: 0
     cipher: auto
     tls: true
     skip-cert-verify: true
-    sni: id-1.test3.net
+    sni: sg6-trojan.bonds.id
     network: ws
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
@@ -1136,8 +1136,8 @@ proxies:
     url: 'https://dns.alidns.com/dns-query'
     interval: 300
   - name: XL VIDIO ðŸ‡®ðŸ‡©ðŸ‡®ðŸ‡© ID
-    password: e10f4340-460b-11ee-ae90-1239d0255272
-    server: id-1.test3.net
+    password: bd23bb60-3f28-11ee-9fcc-1239d0255272
+    server: sg6-trojan.bonds.id
     port: 443
     type: trojan
     alterId: 0
@@ -1149,7 +1149,7 @@ proxies:
     ws-opts:
       path: /howdy
       headers:
-        Host: id-1.test3.net
+        Host: sg6-trojan.bonds.id
         X-Online-Host: tor.cloudflare-dns.com
         X-Forward-Host: tor.cloudflare-dns.com
     udp: true
